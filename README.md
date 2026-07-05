@@ -247,8 +247,9 @@ Through this project, I am strengthening my skills in:
 
 **Shivang Dube**
 
-- GitHub: *(Add your GitHub profile link)*
-- LinkedIn: *(Add your LinkedIn profile link)*
+- GitHub: https://github.com/Practicecomer
+
+- LinkedIn: [*(Add your LinkedIn profile link)*](https://www.linkedin.com/in/shivang-dube-98a7601b8/)
 
 ---
 
