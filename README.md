@@ -249,7 +249,7 @@ Through this project, I am strengthening my skills in:
 
 - GitHub: https://github.com/Practicecomer
 
-- LinkedIn: [*(Add your LinkedIn profile link)*](https://www.linkedin.com/in/shivang-dube-98a7601b8/)
+- LinkedIn: (https://www.linkedin.com/in/shivang-dube-98a7601b8/)
 
 ---
 
